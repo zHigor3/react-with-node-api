@@ -8,6 +8,7 @@ yarn-error.log*
 # Diretórios do Node.js
 node_modules/
 dist/
+build/
 
 # Sistemas Operacionais
 .DS_Store
